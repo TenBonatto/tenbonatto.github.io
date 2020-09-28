@@ -441,6 +441,16 @@ button:focus {
 	width: 100%;
 }
 
+.mu-about-center {
+	display: block;
+	float: center;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: 33%
+	width: 100%;
+	position: relative;
+}
+
 
 
 /*--------------------*/
