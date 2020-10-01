@@ -450,6 +450,14 @@ button:focus {
 	width: 100%;
 	position: relative;
 }
+.propostas{
+	width: 80%;
+	margin:auto;
+	display: inline;
+	text-align: left;
+
+
+}
 
 
 
